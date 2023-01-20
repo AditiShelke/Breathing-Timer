@@ -4,7 +4,9 @@
 * Implemented a GUI interface to display the timer on-screen and provide a user-friendly experience
 * Incorporated a reminder feature to remind users to drink water or rest every 15 minutes
 
-![Screenshot (11)](https://user-images.githubusercontent.com/108284485/213639789-ac05d556-688a-48db-9a2e-2901d125f5fa.png) ![Screenshot (12)](https://user-images.githubusercontent.com/108284485/213640278-b94f8af0-66bd-4b88-ad28-596e23ad4d18.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/108284485/213639789-ac05d556-688a-48db-9a2e-2901d125f5fa.png) ![Screenshot (12)](https://user-images.githubusercontent.com/108284485/213640278-b94f8af0-66bd-4b88-ad28-596e23ad4d18.png)  ![Screenshot (13)](https://user-images.githubusercontent.com/108284485/213640416-56994af1-58de-443e-a64f-3fb1b7dd59b4.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/108284485/213640501-160abc37-7ee4-4432-bbfb-d291c4a4b7cf.png)
+
 
 
 # How to use
