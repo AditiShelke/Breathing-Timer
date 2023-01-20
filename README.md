@@ -4,6 +4,8 @@
 * Implemented a GUI interface to display the timer on-screen and provide a user-friendly experience
 * Incorporated a reminder feature to remind users to drink water or rest every 15 minutes
 
+![Screenshot (11)](https://user-images.githubusercontent.com/108284485/213639789-ac05d556-688a-48db-9a2e-2901d125f5fa.png)
+
 # How to use
 1. Run the script. 
 2. Click on the Start button to begin the exercise.
