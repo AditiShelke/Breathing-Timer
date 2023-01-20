@@ -5,7 +5,7 @@
 * Incorporated a reminder feature to remind users to drink water or rest every 15 minutes
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/108284485/213640278-b94f8af0-66bd-4b88-ad28-596e23ad4d18.png)  ![Screenshot (13)](https://user-images.githubusercontent.com/108284485/213640416-56994af1-58de-443e-a64f-3fb1b7dd59b4.png)
-![Screenshot (15)](https://user-images.githubusercontent.com/108284485/213640501-160abc37-7ee4-4432-bbfb-d291c4a4b7cf.png)
+
 
 
 
